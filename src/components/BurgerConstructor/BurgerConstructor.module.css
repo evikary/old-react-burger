@@ -1,0 +1,16 @@
+.wrapper {
+  width: 600px;
+  text-align: right;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.price {
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+}

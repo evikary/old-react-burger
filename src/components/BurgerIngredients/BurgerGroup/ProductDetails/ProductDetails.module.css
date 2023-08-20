@@ -1,0 +1,9 @@
+.productDet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titleProduct {
+  height: 48px;
+}
